@@ -12,7 +12,7 @@ def generate_negatives():
     # open the output file for writing. will overwrite all existing data in there
     with open('neg.txt', 'w') as f:
         # loop over all the filenames
-        for filename in os.listdir('negative'):
+        for filename in os.listdir('datasetnegff'):
             f.write('datasetnegff/' + filename + '\n')
             #f.write('negative/' + filename + '/n')
 
