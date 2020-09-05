@@ -17,7 +17,7 @@ os.chdir(os.path.dirname(os.path.abspath(__file__)))
 #wincap = WindowCapture('LDPlayer')
 
 # load the trained model
-cascade_limestone = cv.CascadeClassifier('limestone_model_final.xml')
+cascade_limestone = cv.CascadeClassifier('cascade/cascade.xml')
 # load an empty Vision class
 vision_limestone = Vision(None)
 
