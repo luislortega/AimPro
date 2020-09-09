@@ -18,7 +18,7 @@ def generate_negatives():
 
 # the opencv_annotation executable can be found in opencv/build/x64/vc15/bin
 # generate positive description file using:
-# $ C:/Users/luis_/OneDrive/Escritorio/OpenCV/build/x64/vc15/bin/opencv_annotation.exe --annotations=pos.txt --images=datasetposff/
+# $ D:/opencv/build/x64/vc15/bin/opencv_annotation.exe --annotations=pos.txt --images=datasetposff/
 
 # You click once to set the upper left corner, then again to set the lower right corner.
 # Press 'c' to confirm.
@@ -28,7 +28,7 @@ def generate_negatives():
 # Will exit automatically when you've annotated all of the images
 
 # generate positive samples from the annotations to get a vector file using:
-# $ C:/Users/luis_/OneDrive/Escritorio/OpenCV/build/x64/vc15/bin/opencv_createsamples.exe -info pos.txt -w 24 -h 24 -num 1000 -vec pos.vec
+# $ D:/opencv/build/x64/vc15/bin/opencv_createsamples.exe -info pos.txt -w 24 -h 24 -num 1000 -vec pos.vec
 
 # train the cascade classifier model using: (El doble de positivos y el numero de negativos)
 # $ C:/Users/luis_/OneDrive/Escritorio/OpenCV/build/x64/vc15/bin/opencv_traincascade.exe -data cascade/ -vec pos.vec -bg neg.txt -numPos 200 -numNeg 100 -numStages 10 -w 24 -h 24
