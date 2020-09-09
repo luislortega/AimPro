@@ -34,4 +34,4 @@ def generate_negatives():
 # $ D:/opencv/build/x64/vc15/bin/opencv_traincascade.exe -data cascade/ -vec pos.vec -bg neg.txt -numPos 200 -numNeg 100 -numStages 10 -w 24 -h 24
 
 # my final classifier training arguments:
-# $ D:/opencv/build/x64/vc15/bin/opencv_traincascade.exe -data cascade/ -vec pos.vec -bg neg.txt -precalcValBufSize 6000 -precalcIdxBufSize 6000 -numPos 100 -numNeg 100 -numStages 50 -w 24 -h 24 -maxFalseAlarmRate 0.4 -minHitRate 0.999
+# $ D:/opencv/build/x64/vc15/bin/opencv_traincascade.exe -data cascade/ -vec pos.vec -bg neg.txt -precalcValBufSize 6000 -precalcIdxBufSize 6000 -numPos 235 -numNeg 384 -numStages 50 -w 24 -h 24 -maxFalseAlarmRate 0.4 -minHitRate 0.999
