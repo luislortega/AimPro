@@ -1,0 +1,235 @@
+datasetposff\datasetposff0.jpg 1 111 124 21 36
+datasetposff\datasetposff1.jpg 1 107 81 27 129
+datasetposff\datasetposff10.jpg 1 132 170 12 36
+datasetposff\datasetposff100.jpg 1 114 123 16 38
+datasetposff\datasetposff101.jpg 1 106 85 24 117
+datasetposff\datasetposff102.jpg 1 50 104 13 20
+datasetposff\datasetposff103.jpg 1 177 134 14 12
+datasetposff\datasetposff104.jpg 1 177 126 13 91
+datasetposff\datasetposff105.jpg 1 139 64 13 88
+datasetposff\datasetposff106.jpg 1 118 86 12 41
+datasetposff\datasetposff107.jpg 1 180 159 10 35
+datasetposff\datasetposff108.jpg 1 247 140 20 97
+datasetposff\datasetposff109.jpg 1 106 116 31 102
+datasetposff\datasetposff11.jpg 1 142 137 56 184
+datasetposff\datasetposff110.jpg 1 179 152 23 77
+datasetposff\datasetposff111.jpg 1 123 93 27 94
+datasetposff\datasetposff112.jpg 1 93 91 32 102
+datasetposff\datasetposff113.jpg 1 92 82 22 124
+datasetposff\datasetposff114.jpg 1 143 157 14 80
+datasetposff\datasetposff115.jpg 1 178 94 15 26
+datasetposff\datasetposff116.jpg 1 118 148 19 29
+datasetposff\datasetposff117.jpg 1 142 159 15 28
+datasetposff\datasetposff118.jpg 1 165 190 19 27
+datasetposff\datasetposff119.jpg 1 54 100 22 36
+datasetposff\datasetposff12.jpg 1 143 180 14 55
+datasetposff\datasetposff120.jpg 1 60 114 33 38
+datasetposff\datasetposff121.jpg 1 87 70 25 53
+datasetposff\datasetposff122.jpg 1 148 136 19 59
+datasetposff\datasetposff123.jpg 0
+datasetposff\datasetposff124.jpg 1 163 157 14 59
+datasetposff\datasetposff125.jpg 1 122 134 25 72
+datasetposff\datasetposff126.jpg 1 101 102 18 86
+datasetposff\datasetposff127.jpg 1 105 114 18 82
+datasetposff\datasetposff128.jpg 1 127 118 18 83
+datasetposff\datasetposff129.jpg 1 101 121 19 82
+datasetposff\datasetposff13.jpg 1 109 163 23 63
+datasetposff\datasetposff130.jpg 1 111 125 23 87
+datasetposff\datasetposff131.jpg 1 118 87 17 97
+datasetposff\datasetposff132.jpg 1 129 134 19 97
+datasetposff\datasetposff133.jpg 1 122 148 21 74
+datasetposff\datasetposff134.jpg 0
+datasetposff\datasetposff135.jpg 1 141 139 19 61
+datasetposff\datasetposff136.jpg 1 107 98 22 70
+datasetposff\datasetposff137.jpg 2 133 165 15 64 279 187 27 37
+datasetposff\datasetposff138.jpg 1 195 154 24 45
+datasetposff\datasetposff139.jpg 2 46 118 16 71 175 120 15 61
+datasetposff\datasetposff14.jpg 1 155 203 47 105
+datasetposff\datasetposff140.jpg 1 143 132 15 52
+datasetposff\datasetposff141.jpg 2 162 154 16 68 194 156 19 43
+datasetposff\datasetposff142.jpg 1 133 140 27 36
+datasetposff\datasetposff143.jpg 1 167 168 35 100
+datasetposff\datasetposff144.jpg 1 147 154 30 97
+datasetposff\datasetposff145.jpg 1 109 165 24 63
+datasetposff\datasetposff146.jpg 1 106 180 20 50
+datasetposff\datasetposff147.jpg 1 116 169 21 44
+datasetposff\datasetposff148.jpg 1 79 103 50 149
+datasetposff\datasetposff149.jpg 2 119 177 11 23 226 222 23 15
+datasetposff\datasetposff15.jpg 1 124 172 39 104
+datasetposff\datasetposff150.jpg 1 110 199 22 124
+datasetposff\datasetposff151.jpg 1 65 169 30 118
+datasetposff\datasetposff152.jpg 1 128 193 38 100
+datasetposff\datasetposff153.jpg 1 120 146 31 86
+datasetposff\datasetposff154.jpg 1 110 109 22 79
+datasetposff\datasetposff155.jpg 1 108 185 28 61
+datasetposff\datasetposff156.jpg 1 154 166 16 30
+datasetposff\datasetposff157.jpg 1 164 189 18 28
+datasetposff\datasetposff158.jpg 1 130 166 16 45
+datasetposff\datasetposff159.jpg 1 145 144 48 171
+datasetposff\datasetposff16.jpg 1 104 155 35 111
+datasetposff\datasetposff160.jpg 1 139 178 29 51
+datasetposff\datasetposff161.jpg 1 156 204 49 95
+datasetposff\datasetposff162.jpg 1 118 179 46 86
+datasetposff\datasetposff163.jpg 1 101 165 37 94
+datasetposff\datasetposff164.jpg 2 205 168 22 95 4 288 29 37
+datasetposff\datasetposff165.jpg 1 204 167 26 95
+datasetposff\datasetposff166.jpg 1 153 160 47 182
+datasetposff\datasetposff167.jpg 2 111 163 55 180 219 192 9 20
+datasetposff\datasetposff168.jpg 2 134 209 10 28 84 112 9 9
+datasetposff\datasetposff169.jpg 1 148 172 13 52
+datasetposff\datasetposff17.jpg 2 206 168 25 95 2 296 39 30
+datasetposff\datasetposff170.jpg 1 163 136 14 96
+datasetposff\datasetposff171.jpg 3 134 145 23 46 26 188 30 12 103 138 10 15
+datasetposff\datasetposff172.jpg 3 145 175 18 60 29 230 36 13 121 170 13 49
+datasetposff\datasetposff173.jpg 3 102 158 33 41 120 134 16 34 24 197 26 16
+datasetposff\datasetposff174.jpg 1 166 179 49 179
+datasetposff\datasetposff175.jpg 1 220 188 37 111
+datasetposff\datasetposff176.jpg 1 139 180 24 116
+datasetposff\datasetposff177.jpg 1 155 172 15 67
+datasetposff\datasetposff178.jpg 1 158 170 21 77
+datasetposff\datasetposff179.jpg 1 216 159 82 149
+datasetposff\datasetposff18.jpg 1 170 126 21 23
+datasetposff\datasetposff180.jpg 1 205 130 108 229
+datasetposff\datasetposff181.jpg 1 161 144 28 93
+datasetposff\datasetposff182.jpg 1 31 106 193 247
+datasetposff\datasetposff183.jpg 2 90 167 12 46 163 110 10 30
+datasetposff\datasetposff184.jpg 1 172 218 48 78
+datasetposff\datasetposff185.jpg 1 188 152 49 135
+datasetposff\datasetposff186.jpg 1 119 109 43 54
+datasetposff\datasetposff187.jpg 1 137 85 35 80
+datasetposff\datasetposff188.jpg 1 132 153 39 162
+datasetposff\datasetposff189.jpg 1 93 147 43 153
+datasetposff\datasetposff19.jpg 1 202 169 26 86
+datasetposff\datasetposff190.jpg 2 197 174 35 153 21 27 15 41
+datasetposff\datasetposff191.jpg 1 135 150 22 78
+datasetposff\datasetposff192.jpg 1 217 183 27 115
+datasetposff\datasetposff193.jpg 1 58 150 54 144
+datasetposff\datasetposff194.jpg 1 116 228 55 92
+datasetposff\datasetposff195.jpg 1 106 146 16 46
+datasetposff\datasetposff196.jpg 1 135 149 24 55
+datasetposff\datasetposff197.jpg 1 65 84 34 130
+datasetposff\datasetposff198.jpg 1 108 258 31 100
+datasetposff\datasetposff199.jpg 1 41 82 80 164
+datasetposff\datasetposff2.jpg 1 127 186 43 108
+datasetposff\datasetposff20.jpg 1 149 154 60 182
+datasetposff\datasetposff200.jpg 1 82 124 123 185
+datasetposff\datasetposff201.jpg 1 114 155 25 21
+datasetposff\datasetposff202.jpg 1 116 160 67 171
+datasetposff\datasetposff203.jpg 1 122 153 26 19
+datasetposff\datasetposff204.jpg 1 172 151 24 34
+datasetposff\datasetposff205.jpg 1 62 132 25 40
+datasetposff\datasetposff206.jpg 1 123 139 20 76
+datasetposff\datasetposff207.jpg 1 128 124 101 254
+datasetposff\datasetposff208.jpg 1 105 170 114 202
+datasetposff\datasetposff209.jpg 1 144 170 16 41
+datasetposff\datasetposff21.jpg 2 107 158 53 192 219 186 11 23
+datasetposff\datasetposff210.jpg 1 134 153 18 50
+datasetposff\datasetposff211.jpg 1 180 143 12 47
+datasetposff\datasetposff212.jpg 2 142 161 25 68 249 143 19 68
+datasetposff\datasetposff213.jpg 1 105 154 76 166
+datasetposff\datasetposff214.jpg 2 222 132 36 77 65 127 26 73
+datasetposff\datasetposff215.jpg 1 92 138 32 67
+datasetposff\datasetposff216.jpg 2 45 164 32 78 233 103 12 15
+datasetposff\datasetposff217.jpg 1 98 151 33 80
+datasetposff\datasetposff218.jpg 1 125 108 27 68
+datasetposff\datasetposff219.jpg 1 39 102 59 115
+datasetposff\datasetposff22.jpg 2 80 108 13 13 129 207 16 23
+datasetposff\datasetposff220.jpg 1 231 177 56 141
+datasetposff\datasetposff221.jpg 1 259 108 63 163
+datasetposff\datasetposff222.jpg 1 260 156 33 105
+datasetposff\datasetposff223.jpg 1 245 158 39 84
+datasetposff\datasetposff224.jpg 1 100 140 38 92
+datasetposff\datasetposff225.jpg 1 132 84 35 102
+datasetposff\datasetposff226.jpg 1 88 93 28 72
+datasetposff\datasetposff227.jpg 1 128 121 29 83
+datasetposff\datasetposff228.jpg 1 121 78 22 80
+datasetposff\datasetposff229.jpg 1 186 90 21 81
+datasetposff\datasetposff23.jpg 1 148 170 16 66
+datasetposff\datasetposff230.jpg 1 164 140 27 71
+datasetposff\datasetposff231.jpg 1 92 125 21 70
+datasetposff\datasetposff232.jpg 1 103 157 25 91
+datasetposff\datasetposff233.jpg 1 154 155 28 81
+datasetposff\datasetposff234.jpg 1 201 108 22 80
+datasetposff\datasetposff24.jpg 1 202 108 25 84
+datasetposff\datasetposff25.jpg 1 154 136 22 98
+datasetposff\datasetposff26.jpg 3 136 144 20 54 22 187 32 16 100 135 12 20
+datasetposff\datasetposff27.jpg 3 141 175 23 62 120 174 12 49 23 226 42 16
+datasetposff\datasetposff28.jpg 3 104 154 30 53 123 141 13 30 21 200 27 13
+datasetposff\datasetposff29.jpg 1 162 183 51 165
+datasetposff\datasetposff3.jpg 1 160 155 16 84
+datasetposff\datasetposff30.jpg 1 94 88 35 97
+datasetposff\datasetposff31.jpg 1 220 182 33 108
+datasetposff\datasetposff32.jpg 1 142 176 20 121
+datasetposff\datasetposff33.jpg 1 160 169 12 67
+datasetposff\datasetposff34.jpg 1 157 171 25 76
+datasetposff\datasetposff35.jpg 1 104 182 24 48
+datasetposff\datasetposff36.jpg 1 216 173 67 123
+datasetposff\datasetposff37.jpg 1 200 164 98 145
+datasetposff\datasetposff38.jpg 1 163 150 23 89
+datasetposff\datasetposff39.jpg 1 40 122 160 208
+datasetposff\datasetposff4.jpg 1 116 149 35 95
+datasetposff\datasetposff40.jpg 2 87 171 16 49 161 112 11 29
+datasetposff\datasetposff41.jpg 1 185 216 32 80
+datasetposff\datasetposff42.jpg 1 104 151 29 25
+datasetposff\datasetposff43.jpg 1 186 152 46 116
+datasetposff\datasetposff44.jpg 1 116 107 38 163
+datasetposff\datasetposff45.jpg 1 115 164 24 50
+datasetposff\datasetposff46.jpg 2 132 101 42 162 71 6 22 62
+datasetposff\datasetposff47.jpg 1 126 151 45 169
+datasetposff\datasetposff48.jpg 1 95 142 38 162
+datasetposff\datasetposff49.jpg 2 193 174 43 153 24 27 11 39
+datasetposff\datasetposff5.jpg 1 102 107 30 67
+datasetposff\datasetposff50.jpg 1 134 155 21 73
+datasetposff\datasetposff51.jpg 1 224 192 19 38
+datasetposff\datasetposff52.jpg 1 68 162 35 87
+datasetposff\datasetposff53.jpg 1 181 158 16 27
+datasetposff\datasetposff54.jpg 1 123 234 41 89
+datasetposff\datasetposff55.jpg 1 102 151 18 44
+datasetposff\datasetposff56.jpg 1 78 116 43 102
+datasetposff\datasetposff57.jpg 1 140 153 15 51
+datasetposff\datasetposff58.jpg 1 69 89 25 68
+datasetposff\datasetposff59.jpg 1 106 272 28 83
+datasetposff\datasetposff6.jpg 1 46 103 16 19
+datasetposff\datasetposff60.jpg 1 42 85 74 159
+datasetposff\datasetposff61.jpg 1 87 126 73 89
+datasetposff\datasetposff62.jpg 1 111 152 21 25
+datasetposff\datasetposff63.jpg 1 118 166 58 59
+datasetposff\datasetposff64.jpg 1 119 151 26 19
+datasetposff\datasetposff65.jpg 1 132 143 24 31
+datasetposff\datasetposff66.jpg 1 174 151 18 37
+datasetposff\datasetposff67.jpg 2 121 175 12 37 225 221 22 17
+datasetposff\datasetposff68.jpg 1 67 138 19 35
+datasetposff\datasetposff69.jpg 1 120 145 25 75
+datasetposff\datasetposff7.jpg 1 104 180 32 73
+datasetposff\datasetposff70.jpg 1 129 99 103 278
+datasetposff\datasetposff71.jpg 1 109 156 105 217
+datasetposff\datasetposff72.jpg 1 144 168 19 54
+datasetposff\datasetposff73.jpg 1 130 149 20 55
+datasetposff\datasetposff74.jpg 1 176 139 18 53
+datasetposff\datasetposff75.jpg 2 143 163 20 63 249 143 21 66
+datasetposff\datasetposff76.jpg 1 98 134 75 189
+datasetposff\datasetposff77.jpg 1 167 166 36 111
+datasetposff\datasetposff78.jpg 1 105 190 36 152
+datasetposff\datasetposff79.jpg 2 217 128 44 89 63 127 25 70
+datasetposff\datasetposff8.jpg 1 151 159 21 42
+datasetposff\datasetposff80.jpg 1 94 137 33 75
+datasetposff\datasetposff81.jpg 2 48 161 30 81 231 103 14 13
+datasetposff\datasetposff82.jpg 1 98 146 30 82
+datasetposff\datasetposff83.jpg 1 118 105 27 89
+datasetposff\datasetposff84.jpg 1 40 99 65 123
+datasetposff\datasetposff85.jpg 1 241 172 44 151
+datasetposff\datasetposff86.jpg 1 261 96 55 190
+datasetposff\datasetposff87.jpg 1 245 168 50 100
+datasetposff\datasetposff88.jpg 1 245 178 21 21
+datasetposff\datasetposff89.jpg 1 59 161 35 113
+datasetposff\datasetposff9.jpg 1 164 182 18 36
+datasetposff\datasetposff90.jpg 1 150 156 28 99
+datasetposff\datasetposff91.jpg 1 102 140 30 85
+datasetposff\datasetposff92.jpg 1 138 81 24 111
+datasetposff\datasetposff93.jpg 1 88 84 29 94
+datasetposff\datasetposff94.jpg 1 129 123 37 74
+datasetposff\datasetposff95.jpg 1 118 64 21 96
+datasetposff\datasetposff96.jpg 1 185 100 20 70
+datasetposff\datasetposff97.jpg 1 160 150 30 53
+datasetposff\datasetposff98.jpg 1 93 132 20 68
+datasetposff\datasetposff99.jpg 1 108 153 21 98
