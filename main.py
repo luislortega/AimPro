@@ -33,9 +33,9 @@ while(True):
 
     # draw the detection results onto the original image
     detection_image = vision_limestone.draw_rectangles(screenshot, rectangles)
-
+    imS = cv.resize(detection_image, (400, 300))
     # display the images
-    cv.imshow('Matches', detection_image)
+    cv.imshow('Matches', imS)
 
     # debug the loop rate
     #print('FPS {}'.format(1 / (time() - loop_time)))
