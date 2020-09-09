@@ -29,7 +29,7 @@ while(True):
     screenshot = np.array(screenshot)
     screenshot = screenshot[:,:,::-1].copy()
     # do object detection
-    rectangles = cascade_limestone.detectMultiScale(screenshot)
+    rectangles = cascade_limestone.detectMultiScale(screenshot, 2)
 
     # draw the detection results onto the original image
     detection_image = vision_limestone.draw_rectangles(screenshot, rectangles)

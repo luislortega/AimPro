@@ -1,9 +1,9 @@
 import os 
 
-foldername = "datasetposff"
+foldername = "datasetnegff"
 
 for count, filename in enumerate(os.listdir(foldername + "/")): 
-    dst ="datasetpos" + str(count) + ".jpg"
+    dst = foldername + str(count) + ".jpg"
     src = foldername + '/'+ filename 
     dst = foldername + '/'+ dst 
     os.rename(src, dst) 
